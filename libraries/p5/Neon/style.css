@@ -1,0 +1,14 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: black;
+  }
+  p {
+    color: aqua;
+    font-size: larger;
+    text-shadow: aqua;
+  }
+  main {
+    padding: 50px;
+    margin: 5px;
+  }
